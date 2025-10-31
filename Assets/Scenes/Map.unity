@@ -4118,8 +4118,12 @@ PrefabInstance:
       value: wall_001 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 920942762111806865, guid: 132398e80f2626a4eb28fe6f0412ccef, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 920942762111806865, guid: 132398e80f2626a4eb28fe6f0412ccef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.568
+      value: 6.823
       objectReference: {fileID: 0}
     - target: {fileID: 920942762111806865, guid: 132398e80f2626a4eb28fe6f0412ccef, type: 3}
       propertyPath: m_LocalPosition.y
